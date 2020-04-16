@@ -187,7 +187,7 @@ class LanguagePack::Helpers::BundlerWrapper
     if bundler_version_match
       bundler_version_match[:major]
     else
-      "1"
+      "2"
     end
   end
 
